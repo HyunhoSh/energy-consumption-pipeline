@@ -1,11 +1,11 @@
 # energy-consumption-pipeline
 ## Data Source
 
-This project uses the "Global Energy Consumption (2000–2024)" dataset from Kaggle.
+This project uses the "World Energy Consumption" dataset from Kaggle.
 
 - Source: Kaggle  
-- Dataset: Global Energy Consumption (2000–2024)  
-- Link: https://www.kaggle.com/datasets/atharvasoundankar/global-energy-consumption-2000-2024
+- Dataset: World Energy Consumption
+- Link: https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption/data
 
 The dataset is used for educational and non-commercial purposes only.
 
